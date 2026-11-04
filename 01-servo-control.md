@@ -12,6 +12,7 @@ A servo is a special motor that doesn't just spin continuously; it receives a si
 4. **Wire the Signal:** Connect the **Orange** (or Yellow/Green) signal wire to Arduino **Digital Pin 2**.
 
 *(Make sure your signal wire is on the same breadboard row as the servo's connector pin!)*
+![Activity A Task 2 Circuit](ACTIVITY--TASK-2.png)
 
 ## Writing Raw PWM Code
 
