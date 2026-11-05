@@ -1,4 +1,4 @@
-# 04 Challenges - For Nerds (Putting it all together!)
+# 04 Challenges - Putting it all together!
 
 In a real spacecraft like SunbYte, subsystems don't operate in isolation. The thermal management system and the solar array positioning system have to communicate. 
 
