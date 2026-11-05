@@ -9,7 +9,7 @@ A servo is a special motor that doesn't just spin continuously; it receives a si
 1. **Power the Breadboard:** First, ensure your Arduino's `5V` pin is connected to the breadboard's red `+` rail, and the `GND` pin is connected to the black `-` rail.
 2. **Wire the Servo Power:** Your servo has three wires. Connect the **Red** wire to the `+` 5V rail on your breadboard.
 3. **Wire the Servo Ground:** Connect the **Brown** (or Black) wire to the `-` GND rail.
-4. **Wire the Signal:** Connect the **Orange** (or Yellow/Green) signal wire to Arduino **Digital Pin 2**.
+4. **Wire the Signal:** Connect the **Orange** (or Yellow/Green) signal wire to Arduino **Digital Pin 8**.
 
 *(Make sure your signal wire is on the same breadboard row as the servo's connector pin!)*
 ![Activity A Task 2 Circuit](ACTIVITY-2-TASK-2.png)
